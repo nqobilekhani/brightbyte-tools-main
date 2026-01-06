@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Virtual environment settings
+venv/
+env/
+
+# Mac OS annoying temp files
+.DS_Store
+
+# Sensitive information 
+.env
+passwords.txt
