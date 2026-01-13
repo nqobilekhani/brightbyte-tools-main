@@ -20,5 +20,6 @@ def generate_password(length=12):
 
     return password
 
+# Print thye password to the screen
 password_12 = generate_password()
 print(f"12-Character Password: {password_12}")
