@@ -12,3 +12,5 @@ env/
 # Sensitive information 
 .env
 passwords.txt
+
+secret.txt
