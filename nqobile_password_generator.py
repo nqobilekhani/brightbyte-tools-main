@@ -22,7 +22,7 @@ def generate_password(length=12):
 
     return password
 
-
+# Added this comment
 if len(sys.argv) < 2:
   print("-----This is a simple passowrd generator-----")
   size =int(input("Enter password length:  "))
